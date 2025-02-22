@@ -1,7 +1,7 @@
 ### All Python Basics ###
 
 ### Topics Which Covered ###
-Variables, DataTypes, operators, if statements, Funtions
+Variables, DataTypes, Operators, If Statements, Funtions
 
 ### Currently, I'm working on:
 Array, Loop, Input, scope and object
