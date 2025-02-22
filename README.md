@@ -1,4 +1,3 @@
- Python
 ### All Python Basics ###
 
 ### Topics Which Covered ###
