@@ -4,4 +4,4 @@
 Variables, DataTypes, Operators, If Statements, Funtions
 
 ### Currently, I'm working on:
-Array, Loop, Input, scope, Switch and object
+Arrays, Loops, Inputs, scopes, Switchs, Iterators and Objects.
