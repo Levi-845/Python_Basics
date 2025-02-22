@@ -1,10 +1,12 @@
 # Python
 All Python Basics
-Array, Loop, Input, scope and object :- Coming Soon.
 
-###Topics Which Covered ###
-*Variables
-*DataTypes
-*operators
-*if statements
-*Funtions
+### Topics Which Covered ###
+**Variables**
+**DataTypes**
+**operators**
+**if statements**
+**Funtions**
+
+### Currently, I'm working on:
+Array, Loop, Input, scope and object
